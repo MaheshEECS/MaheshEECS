@@ -2,7 +2,7 @@
 </p>
 
 ## **About me**
-- A passionate self-driven Python Developer and Data Scientist with a focus on innovation and problem-solving.
+- A passionate self-driven  Developer and Data Scientist with a focus on innovation and problem-solving.
 - Actively engaged in Data Science and Machine Learning projects, leveraging Python for impactful solutions.
 - Engaged in an exploration of Advanced Data Science Projects.
 - Enthusiastic about exploring new challenges and staying abreast of the latest developments in the field.

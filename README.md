@@ -1,12 +1,11 @@
 <p align="center">
 </p>
-
-## **About me**
-- A passionate self-driven  Developer and Data Scientist with a focus on innovation and problem-solving.
-- Actively engaged in Data Science and Machine Learning projects, leveraging Python for impactful solutions.
-- Engaged in an exploration of Advanced Data Science Projects.
-- Enthusiastic about exploring new challenges and staying abreast of the latest developments in the field.
-- Open to exciting opportunities in Data Science and Machine Learning, including job roles, collaborative services, and engaging projects.
+## About Me
+- Passionate self-driven **Developer** with experience in both front-end and full-stack development.
+- Skilled in technologies like **AngularJS, React, Node.js**, and **Python**.
+- Actively engaged in **Data Science** and **Machine Learning** projects, applying innovative solutions to real-world problems.
+- Enthusiastic about tackling new challenges and continuously learning the latest industry trends.
+- Open to exciting opportunities in software development, data science, and collaborative projects.
 
 ### Software & Tools
 ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white)&nbsp;

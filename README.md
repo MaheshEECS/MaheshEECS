@@ -7,55 +7,77 @@
 
 ## 👨‍🎓 About Me
 
-- 💻 EECS student at **UC Berkeley** (Aug 2023 – Dec 2025)
-- 🧠 Passionate about **software engineering, ML/AI, and full-stack systems**
-- 🔍 Experienced in **React, Laravel, Flask, YOLOv5, PostgreSQL, Clerk**, and more
-- 🌐 Open to software development, machine learning, and collaborative product roles
+- 💻 EECS student at **UC Berkeley** (Aug 2023 – Dec 2025)  
+- 🧠 Passionate about **software engineering, ML/AI, and full-stack systems**  
+- 🔍 Experienced in **React, Laravel, Flask, YOLOv5, PostgreSQL, Clerk**, and more  
+- 🌐 Open to software development, machine learning, and collaborative product roles  
 
 ---
 
 ## 🚀 Major Projects
 
-### 🎓 [Genius LMS](https://github.com/MaheshEECS/Genius-Master)
+### 🎓 [Genius LMS](https://github.com/MaheshEECS/Genius-Master)  
 > Laravel · MySQL · Stripe · Zoom SDK · MVC
 
 - Multi-role LMS system with real-time class scheduling, secure video delivery, and assessment tools  
 - 30+ REST APIs built using Laravel, with Stripe-based payment and Zoom class integration  
-- Performance optimized via ORM refactoring; 500+ concurrent user support
+- Performance optimized via ORM refactoring; 500+ concurrent user support  
 
 ---
 
-### 🧵 [FiberFlow Textile Platform](https://github.com/MaheshEECS/Textile)
+### 🧵 [FiberFlow Textile Platform](https://github.com/MaheshEECS/Textile)  
 > Next.js · Flask · YOLOv5 · Prisma · PostgreSQL · Clerk
 
 - AI defect detection for textiles using YOLOv5 with 85%+ accuracy  
 - Real-time dashboards, live annotation tools, and Clerk-based auth  
-- Optimized backend APIs for <200ms UI latency and 200+ concurrent users
+- Optimized backend APIs for <200ms UI latency and 200+ concurrent users  
 
 ---
 
-### 🧰 [Helper PM Tool](https://github.com/MaheshEECS/Helper-Master)
+### 🧰 [Helper PM Tool](https://github.com/MaheshEECS/Helper-Master)  
 > Laravel · OIDC · Spatie Media Library · RESTful APIs · MySQL
 
 - Multilingual project management platform with roadmap, sprint, and ticket tracking  
 - OIDC-based login + media versioning with Spatie  
-- Dashboard response time improved by 30% via SQL and logic optimization
+- Dashboard response time improved by 30% via SQL and logic optimization  
 
 ---
 
 ## 🛠 Technical Skills
 
-**Languages:**  
-`Python`, `Java`, `C/C++`, `PHP`, `JavaScript`, `Ruby`, `SQL`
+### 💡 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)&nbsp;
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white)&nbsp;
 
-**Frameworks & Libraries:**  
-`React.js`, `Laravel`, `Flask`, `Node.js`, `YOLOv5`, `Clerk`, `Prisma`, `Tailwind CSS`, `Spatie`
+### ⚙️ Frameworks & Libraries  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)&nbsp;
+![YOLO](https://img.shields.io/badge/YOLOv5-FFCC00?style=plastic&logo=python&logoColor=black)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=prisma&logoColor=white)&nbsp;
+![Clerk](https://img.shields.io/badge/Clerk-3B82F6?style=plastic&logoColor=white)
 
-**Databases:**  
-`PostgreSQL`, `MySQL`
+### 🗃️ Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
 
-**DevOps & Tools:**  
-`Git`, `GitHub`, `Docker`, `Google Cloud Platform`, `Netlify`, `RESTful APIs`, `Neon`
+### ⚒ DevOps & Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)&nbsp;
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=plastic&logo=netlify&logoColor=white)&nbsp;
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white)&nbsp;
+![Neon](https://img.shields.io/badge/Neon-000000?style=plastic&logo=postgresql&logoColor=white)&nbsp;
+![REST](https://img.shields.io/badge/REST-25A162?style=plastic&logo=swagger&logoColor=white)
 
 ---
 

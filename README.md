@@ -1,47 +1,77 @@
+<h1 align="center">Hi, I'm Mahesh Acharya 👋</h1>
 <p align="center">
-</p>
-## About Me
-- Passionate self-driven **Developer** with experience in both front-end and full-stack development.
-- Skilled in technologies like **AngularJS, React, Node.js**, and **Python**.
-- Actively engaged in **Data Science** and **Machine Learning** projects, applying innovative solutions to real-world problems.
-- Enthusiastic about tackling new challenges and continuously learning the latest industry trends.
-- Open to exciting opportunities in software development, data science, and collaborative projects.
-
-### Software & Tools
-![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white)&nbsp;
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white)&nbsp;
-![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white)&nbsp;
-![JSON](https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white)&nbsp;
-![OpenGL](https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white)&nbsp;
-![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white)&nbsp;
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white)&nbsp;
-
-### IDEs
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)&nbsp;
-![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white)&nbsp;
-![Atom](https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white)&nbsp;
-
-### Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)&nbsp;
-
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </p>
 
+---
 
-<h3 align=""><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 5px;">Connect with me! </h3>
+## 👨‍🎓 About Me
+
+- 💻 EECS student at **UC Berkeley** (Aug 2023 – Dec 2025)
+- 🧠 Passionate about **software engineering, ML/AI, and full-stack systems**
+- 🔍 Experienced in **React, Laravel, Flask, YOLOv5, PostgreSQL, Clerk**, and more
+- 🌐 Open to software development, machine learning, and collaborative product roles
+
+---
+
+## 🚀 Major Projects
+
+### 🎓 [Genius LMS](https://github.com/MaheshEECS/Genius-Master)
+> Laravel · MySQL · Stripe · Zoom SDK · MVC
+
+- Multi-role LMS system with real-time class scheduling, secure video delivery, and assessment tools  
+- 30+ REST APIs built using Laravel, with Stripe-based payment and Zoom class integration  
+- Performance optimized via ORM refactoring; 500+ concurrent user support
+
+---
+
+### 🧵 [FiberFlow Textile Platform](https://github.com/MaheshEECS/Textile)
+> Next.js · Flask · YOLOv5 · Prisma · PostgreSQL · Clerk
+
+- AI defect detection for textiles using YOLOv5 with 85%+ accuracy  
+- Real-time dashboards, live annotation tools, and Clerk-based auth  
+- Optimized backend APIs for <200ms UI latency and 200+ concurrent users
+
+---
+
+### 🧰 [Helper PM Tool](https://github.com/MaheshEECS/Helper-Master)
+> Laravel · OIDC · Spatie Media Library · RESTful APIs · MySQL
+
+- Multilingual project management platform with roadmap, sprint, and ticket tracking  
+- OIDC-based login + media versioning with Spatie  
+- Dashboard response time improved by 30% via SQL and logic optimization
+
+---
+
+## 🛠 Technical Skills
+
+**Languages:**  
+`Python`, `Java`, `C/C++`, `PHP`, `JavaScript`, `Ruby`, `SQL`
+
+**Frameworks & Libraries:**  
+`React.js`, `Laravel`, `Flask`, `Node.js`, `YOLOv5`, `Clerk`, `Prisma`, `Tailwind CSS`, `Spatie`
+
+**Databases:**  
+`PostgreSQL`, `MySQL`
+
+**DevOps & Tools:**  
+`Git`, `GitHub`, `Docker`, `Google Cloud Platform`, `Netlify`, `RESTful APIs`, `Neon`
+
+---
+
+## 📫 Connect With Me
+
 <p align="center">
-  <div align="center" class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/acharyamahesh/">
-      <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/MaheshEECS">
-      <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/maheshacharya">
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-     <a style="margin-left: 10px;" target="_blank" href="https://discord.com/users/930365466227126272">
-      <img width="45" height="45" src="https://img.icons8.com/dusk/64/discord-logo.png" alt="discord-logo"/></a>
-  </div>
+  <a href="https://www.linkedin.com/in/acharyamahesh/" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+  </a>&nbsp;
+  <a href="https://github.com/MaheshEECS" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"/>
+  </a>&nbsp;
+  <a href="https://stackoverflow.com/users/maheshacharya" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"/>
+  </a>&nbsp;
+  <a href="https://discord.com/users/930365466227126272" target="_blank">
+    <img src="https://img.icons8.com/dusk/64/discord-logo.png" width="45" height="45"/>
+  </a>
 </p>

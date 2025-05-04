@@ -97,3 +97,16 @@
     <img src="https://img.icons8.com/dusk/64/discord-logo.png" width="45" height="45"/>
   </a>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaheshEECS&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshEECS&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MaheshEECS&theme=tokyonight&hide_border=true" />
+</p>

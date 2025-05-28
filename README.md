@@ -7,7 +7,7 @@
 
 ## 👨‍🎓 About Me
 
-- 💻 EECS student at **UC Berkeley** (Aug 2023 – Dec 2025)  
+- 💻 EECS student at **UC Berkeley** (Aug 2023 – May 2026)  
 - 🧠 Passionate about **software engineering, ML/AI, and full-stack systems**  
 - 🔍 Experienced in **React, Laravel, Flask, YOLOv5, PostgreSQL, Clerk**, and more  
 - 🌐 Open to software development, machine learning, and collaborative product roles  

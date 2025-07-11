@@ -16,12 +16,16 @@
 
 ## 🚀 Major Projects
 
-### 🎓 [Genius LMS](https://github.com/MaheshEECS/Genius-Master)  
-> Laravel · MySQL · Stripe · Zoom SDK · MVC
+### 🧠 NeuroScale OS — Distributed AI Operating System  
+> C++ · CUDA · Rust · LLVM IR · Python · Go · gRPC · Kubernetes
 
-- Multi-role LMS system with real-time class scheduling, secure video delivery, and assessment tools  
-- 30+ REST APIs built using Laravel, with Stripe-based payment and Zoom class integration  
-- Performance optimized via ORM refactoring; 500+ concurrent user support  
+- Designed a GPU-accelerated OS to simulate transformer inference and spiking neural networks (SNNs) at 3M+ spikes/sec with sustained 90%+ GPU utilization.  
+- Implemented high-performance CUDA kernels in **C++** for LIF and Hodgkin-Huxley neuron models, and custom transformer modules.  
+- Built a custom DSL and compiler using **ANTLR4**, **Python**, and **LLVM IR** to generate optimized CUDA/XLA/ONNX kernels from neural computation graphs.  
+- Developed a **Raft-based distributed scheduler** in **Rust** with fault-tolerant checkpointing and GPU-aware task orchestration.  
+- Exposed system as a scalable API using **gRPC in Go**, integrated real-time telemetry with **Prometheus**, **Grafana**, and **NVIDIA Nsight**.  
+- Built for researchers and engineers to run complex neural simulations or AI workloads across heterogeneous GPU clusters.  
+
 
 ---
 
@@ -33,6 +37,15 @@
 - Optimized backend APIs for <200ms UI latency and 200+ concurrent users  
 
 ---
+
+### 🎓 [Genius LMS](https://github.com/MaheshEECS/Genius-Master)  
+> Laravel · MySQL · Stripe · Zoom SDK · MVC
+
+- Multi-role LMS system with real-time class scheduling, secure video delivery, and assessment tools  
+- 30+ REST APIs built using Laravel, with Stripe-based payment and Zoom class integration  
+- Performance optimized via ORM refactoring; 500+ concurrent user support  
+
+
 
 ### 🧰 [Helper PM Tool](https://github.com/MaheshEECS/Helper-Master)  
 > Laravel · OIDC · Spatie Media Library · RESTful APIs · MySQL

@@ -28,7 +28,7 @@
 
 
 ### 🧵 [FiberFlow Textile Platform](https://github.com/MaheshEECS/Textile)  
-> Next.js · Flask · YOLOv5 · Prisma · PostgreSQL · Clerk
+> Next.js · Flask · YOLOv5 · Prisma · PostgreSQL · Clerk · Pytorch
 
 - AI defect detection for textiles using YOLOv5 with 85%+ accuracy  
 - Real-time dashboards, live annotation tools, and Clerk-based auth  

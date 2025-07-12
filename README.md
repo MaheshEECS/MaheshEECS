@@ -16,7 +16,7 @@
 
 ## 🚀 Major Projects
 
-### 🧠 NeuroScale OS — Distributed AI Operating System  
+### 🧠 [NeuroScale OS — Distributed AI Operating System](https://github.com/MaheshEECS/NeuroScale-OS)  
 > C++ · CUDA · Rust · LLVM IR · Python · Go · gRPC · Kubernetes
 
 - Designed a GPU-accelerated OS to simulate transformer inference and spiking neural networks (SNNs) at 3M+ spikes/sec with sustained 90%+ GPU utilization.  
@@ -26,8 +26,6 @@
 - Exposed system as a scalable API using **gRPC in Go**, integrated real-time telemetry with **Prometheus**, **Grafana**, and **NVIDIA Nsight**.  
 - Built for researchers and engineers to run complex neural simulations or AI workloads across heterogeneous GPU clusters.  
 
-
----
 
 ### 🧵 [FiberFlow Textile Platform](https://github.com/MaheshEECS/Textile)  
 > Next.js · Flask · YOLOv5 · Prisma · PostgreSQL · Clerk
